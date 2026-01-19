@@ -1,8 +1,9 @@
 # Виртуальное окружение
 env/
+venv/
 
 # Кэш Python
-__pycache__/
+pycache/
 *.py[cod]
 
 # Настройки VS Code
